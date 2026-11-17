@@ -1,0 +1,14 @@
+# Zemberek jar: anyone can download it (see README), so it stays out of the repo
+zemberek-full.jar
+
+# Private word lists: never published
+private/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor
+.vscode/
